@@ -39,8 +39,7 @@
   "keywords": ["react", "admob", "auth", "config", "digits", "fabric", "functions", "phone-auth", "sms", "firestore", "cloud-firestore", "datastore", "remote-config", "transactions", "react-native", "react-native-firebase", "firebase", "fcm", "apn", "gcm", "analytics", "messaging", "database", "android", "ios", "crash", "firestack", "performance", "firestore", "dynamic-links", "crashlytics"],
   "peerDependencies": {
     "react": "*",
-    "react-native": ">= 0.48.0",
-    "fbjs": "*"
+    "react-native": ">= 0.48.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
